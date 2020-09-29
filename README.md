@@ -12,7 +12,7 @@ This is a Google powered custom search engine you can use to perform market rese
 
 **Developed By**: [Thisislink](https://github.com/thisislink)
 
-**Repo**: [Search Reddit](https://github.com/thisislink/MarketResearch)
+**Repo**: [Market Research](https://github.com/thisislink/MarketResearch)
 
 ### Want to Make Your Own Custom Search Engine?
 [Google CSE](https://programmablesearchengine.google.com/about/)
