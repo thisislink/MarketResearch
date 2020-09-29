@@ -5,6 +5,9 @@ This is a Google powered custom search engine you can use to perform market rese
 * [Reddit](#)
 * [Quora](#)
 
+## Find Industry Contacts
+* [LinkedIn](#)
+
 ### Developer Info
 
 **Developed By**: [Thisislink](https://github.com/thisislink)
