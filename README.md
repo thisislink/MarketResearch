@@ -1,12 +1,8 @@
 # MarketResearch
 This is a Google powered custom search engine you can use to perform market research and find industry contacts.
 
-## Custom Search Engines Available
-* [Reddit](#)
-* [Quora](#)
-
-## Find Industry Contacts
-* [LinkedIn](#)
+## Website
+[https://research.thisislink.com](https://research.thisislink.com)
 
 ### Developer Info
 
